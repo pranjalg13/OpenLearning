@@ -3,7 +3,7 @@ title: "Open Learning"
 permalink: /
 ---
 
-# Mostly Free Resources for Almost Everyone
+# Open Learning: A free resources guide to learn anything
 > **TIP**: Searching for something specific? Use `Ctrl+F` (or `Cmd+F` on macOS)!
 ## Table of Contents
 * [Computer Science and Related](#computer-science-and-related)
