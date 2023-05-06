@@ -1,8 +1,3 @@
----
-title: "Open Learning"
-permalink: /
----
-
 # Open Learning: A free resources guide to learn anything
 > **TIP**: Searching for something specific? Use `Ctrl+F` (or `Cmd+F` on macOS)!
 ## Table of Contents
