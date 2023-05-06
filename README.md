@@ -1,3 +1,9 @@
+---
+title: "Open Learning"
+permalink: "/"
+layout: "default"
+---
+
 # Mostly Free Resources for Almost Everyone
 > **TIP**: Searching for something specific? Use `Ctrl+F` (or `Cmd+F` on macOS)!
 ## Table of Contents
