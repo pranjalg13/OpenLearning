@@ -54,7 +54,7 @@ permalink: /
  * [Life, Health, and Related](#life-health-and-related)
  * [Other Tools and Apps](#other-tools-and-apps)
 
- ## Computer Science and Related
+## Computer Science and Related
 
 > Resources related to technology; programming, tools, etc.
 
