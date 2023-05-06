@@ -1,5 +1,4 @@
 # OpenLearning
-A free learning resource platform for all learners
 ## Inspiration:
 The inspiration behind OpenLearning was to create a platform that democratizes education by providing free access to quality resources to anyone, anywhere, at any time. It is inspired by resolving the 4th Goal of Sustainable Development Goals listed out by the UN (Quality Education).
 
