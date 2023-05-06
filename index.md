@@ -1,7 +1,6 @@
 ---
 title: "Open Learning"
 permalink: /
-layout: "minima"
 ---
 
 # Mostly Free Resources for Almost Everyone
