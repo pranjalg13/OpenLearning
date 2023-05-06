@@ -1,6 +1,6 @@
 ---
 title: "Open Learning"
-permalink: "/"
+permalink: /
 layout: "default"
 ---
 
