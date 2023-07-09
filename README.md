@@ -13,7 +13,7 @@ OpenLearning was built using a combination of modern web technologies, including
 One of the main challenges we faced was sourcing reliable and accurate information from the internet, given the vast amount of misinformation and low-quality resources available online. We also had to ensure that the platform was accessible and user-friendly for learners with diverse backgrounds and skill levels.
 
 ## Accomplishments that we're proud of:
-We are proud to have developed a platform that has helped millions of learners worldwide to gain new skills, advance their careers, and achieve their personal and professional goals. We have also gathered the best quality resources to provide free education to underserved communities.
+We are proud to have developed a platform that has helped millions of learners worldwide to gain new skills, advance their careers, and achieve their personal and professional goals. We have also gathered the best quality resources to provide free education to underserved communities. It is one of the top listed list
 
 ## What we learned:
 Through OpenLearning, we have learned the power of collaboration, community, and technology in democratizing education and breaking down barriers to access. We have also learned the importance of constantly evolving and adapting to meet the changing needs of learners and educators.
